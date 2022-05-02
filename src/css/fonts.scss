@@ -1,0 +1,23 @@
+
+
+@include fontFace('Font Light','../fonts/CentraleSans-Light.otf');
+@include fontFace('Font Regular','../fonts/CentraleSans-Regular.otf');
+@include fontFace('Font Bold','../fonts/CentraleSans-Bold.otf');
+@include fontFace('Font Thin','../fonts/CentraleSans-Thin.eot');
+
+
+.font-light {
+	font-family: 'Font Light';
+}
+
+.font-regular {
+	font-family: 'Font Regular';
+}
+
+.font-thin {
+	font-family: 'Font Thin';
+}
+
+.font-bold {
+	font-family: 'Font Bold';
+}
